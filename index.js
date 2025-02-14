@@ -30,9 +30,9 @@ document.addEventListener('DOMContentLoaded', function () {
       <p><span>This is to certify that</span></p>
       <h3>${studentName}</h3>
       <p>has almost completed the</p>
+      <h2>${courseName} course</h2>
       <p>with legendary perseverance and world-class bad-assery for never giving up🏆</p>
       <img src="logo.png" alt="CodeSpace Logo" style="width: 400px; margin-bottom: 40px;">
-      <h2>${courseName} course</h2>
       <p>${personalMessage}</p>
 
     `;
